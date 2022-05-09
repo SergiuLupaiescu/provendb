@@ -1,0 +1,15 @@
+{
+  "name": "provendb-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@southbanksoftware/provendb-node-driver": "^0.1.13",
+    "mongodb": "^4.5.0"
+  }
+}
